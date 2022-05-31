@@ -1,7 +1,7 @@
 # Easy-Maths-Codes-On-Pascal
 
 
-files:
+FILE INSTRUCTION:
 
 summ - sum of numbers
 
